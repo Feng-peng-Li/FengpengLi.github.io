@@ -3,15 +3,20 @@
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 6px;">
   <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
+  <li>IEEE Transactions on Dependable and Secure Computing (TDSC)</li>
+  <li>Engineering Applications of Artificial Intelligence (EAAI)</li>
+  <li>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS PHOTO)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 <ul style="margin:0 0 6px;">
   <li>European Conference on Computer Vision (ECCV), 2026</li>
   <li>Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
-  <li>International Conference on Machine Learning (ICML), 2026</li>
+  <li>International Conference on Machine Learning (ICML), 2021,2022,2023,2024,2025,2026</li>
   <li>International Conference on Learning Representations (ICLR), 2026</li>
-  <li>Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
+  <li>Conference on Neural Information Processing Systems (NeurIPS), 2024,2025</li>
+  <li>The AAAI Conference on Artificial Intelligence (AAAI), 2025</li>
+  <li>The International Conference on Artificial Intelligence and Statistics,2025,2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Session Chair</h4>
