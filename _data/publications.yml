@@ -1,16 +1,6 @@
 main:
-
-  - title: "LLM Unlearning with LLM Beliefs"
-    authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
-    conference_short: ICLR-26
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
-    badges: ["Tsinghua A"]
-    pdf: https://openreview.net/forum?id=qCfYOLAzti
-    # code: https://github.com/Feng-peng-Li/CoFAT
-    image: ./assets/img/BST.jpg
-
   - title: "AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models"
-    authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Qizhou Wang, Bo Han, Jiantao Zhou
+    authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Qizhou Wang, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     badges: ["Tsinghua A"]
@@ -18,8 +8,18 @@ main:
     # code: https://github.com/Feng-peng-Li/AEGIS
     image: ./assets/img/AEGIS.jpg
 
+  - title: "LLM Unlearning with LLM Beliefs"
+    authors: Kemou Li, Qizhou Wang, Yue Wang, <strong><u>Fengpeng Li</u></strong>, Jun Liu, Bo Han, Jiantao Zhou
+    conference_short: ICLR-26
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
+    badges: ["Tsinghua A"]
+    pdf: https://openreview.net/forum?id=qCfYOLAzti
+    # code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/BST.jpg
+
+  
   - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
-    authors: Fengpeng Li*, <strong><u>Kemou Li*</u></strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
+    authors: <strong><u>Fengpeng Li*</u></strong>, Kemou Li*, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: TIFS-25
     conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025
     badges: ["CCF A"]
@@ -28,7 +28,7 @@ main:
     image: ./assets/img/CoFAT.jpg
 
   - title: "RML++: Regroup Median Loss for Combating Label Noise"
-    authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
+    authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
     conference_short: IJCV-25
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025
     badges: ["CCF A"]
@@ -36,17 +36,9 @@ main:
     code: https://github.com/Feng-peng-Li/RML-Extension
     image: ./assets/img/RMLEX.jpg
   
-  - title: "FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge"
-    authors: Kahim Wong, Jicheng Zhou, <strong><u>Kemou Li</u></strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
-    conference_short: TMM-25
-    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
-    badges: ["Tsinghua A"]
-    pdf: https://ieeexplore.ieee.org/document/11146602
-    code: https://github.com/KAHIMWONG/FontGuard
-    image: ./assets/img/model_overview.png
 
   - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
-    authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
+    authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS-24
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024
     badges: ["CCF A"]
@@ -55,7 +47,7 @@ main:
     image: ./assets/img/DAT.jpg
 
   - title: Regroup Median Loss for Combating Label Noise
-    authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Jinyu Tian, Jiantao Zhou
+    authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Jinyu Tian, Jiantao Zhou
     conference_short: AAAI-24 Oral
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
     badges: ["CCF A"]
