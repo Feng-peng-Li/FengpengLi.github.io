@@ -1,4 +1,13 @@
 main:
+  - title: "Zero-shot Detection of AI-Generated Image via RAW-RGB Alignment"
+    authors: Haiwei Wu, <strong><u>Fengpeng Li</u></strong>, Zhilin Tu, Yuanman Li, Xiong Li, Jiantao Zhou
+    conference_short: CVPR-26
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    badges: ["CCF A"]
+    # pdf: https://openreview.net/forum?id=3y3hnL7KhS
+    # code: https://github.com/Feng-peng-Li/AEGIS
+    image: ./assets/img/ZERO_SHOT.jpg
+  
   - title: "AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models"
     authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Qizhou Wang, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
