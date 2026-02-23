@@ -12,6 +12,8 @@ I am currently focusing on Trustworth Machine Learning, inlcuding Robust Learnin
 
 <div class="recent-news-scroll" markdown="1">
 
+
+- **[2026-02]** One papers on Zero-shot AIGC Detection is accepted to CVPR 2026.
 - **[2026-01]** Two papers on Robust diffusion model concept erasure and LLM unlearning are accepted to ICLR 2026.
 - **[2026-01]** Start my PostDoc Research Fellow in PRADA Lab of KAUST.
 - **[2025-12]** Pass my Oral Defense Exam and Obtain my PhD Degree.
