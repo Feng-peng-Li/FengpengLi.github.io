@@ -1,6 +1,6 @@
 main:
   - title: "Zero-shot Detection of AI-Generated Image via RAW-RGB Alignment"
-    authors: Haiwei Wu, <strong><u>Fengpeng Li</u></strong>, Zhilin Tu, Yuanman Li, Xiong Li, Jiantao Zhou
+    authors: Haiwei Wu*, <strong><u>Fengpeng Li*</u></strong>, Zhilin Tu, Yuanman Li, Xiong Li, Jiantao Zhou
     conference_short: CVPR-26
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
     badges: ["CCF A"]
