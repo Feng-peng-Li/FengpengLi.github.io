@@ -12,7 +12,7 @@ main:
     authors: <strong><u>Fengpeng Li</u></strong>, Kemou Li, Qizhou Wang, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
-    badges: ["Tsinghua A"]
+    badges: ["CCF A"]
     pdf: https://openreview.net/forum?id=3y3hnL7KhS
     # code: https://github.com/Feng-peng-Li/AEGIS
     image: ./assets/img/AEGIS.jpg
@@ -21,12 +21,11 @@ main:
     authors: Kemou Li, Qizhou Wang, Yue Wang, <strong><u>Fengpeng Li</u></strong>, Jun Liu, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
-    badges: ["Tsinghua A"]
+    badges: ["CCF A"]
     pdf: https://openreview.net/forum?id=qCfYOLAzti
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/BST.jpg
 
-  
   - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
     authors: <strong><u>Fengpeng Li*</u></strong>, Kemou Li*, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: TIFS-25
