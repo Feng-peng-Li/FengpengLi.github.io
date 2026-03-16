@@ -2,6 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 6px;">
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
   <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
   <li>IEEE Transactions on Dependable and Secure Computing (TDSC)</li>
   <li>Engineering Applications of Artificial Intelligence (EAAI)</li>
