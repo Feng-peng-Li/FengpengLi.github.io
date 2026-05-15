@@ -23,11 +23,11 @@ cv_link: ./assets/files/CV_EN_Fengpeng_Li.pdf
 github_link: https://github.com/Feng-peng-Li
 linkedin: https:www.linkedin.com/in/fengpengli
 #twitter: https://twitter.com/KemouLi99
-instagram: https://www.instagram.com/kemoulee/
+#instagram: https://www.instagram.com/kemoulee/
 wechat: ./assets/img/wechat_qr.png
 
 # Images
-avatar: ./assets/img/photo2.jpg
+avatar: ./assets/img/pic2.jpg
 avatar_back: ./assets/img/never_enough.jpg
 favicon: ./assets/img/ghibli.png
 favicon_dark: ./assets/img/ghibli.png
