@@ -1,24 +1,24 @@
 # Basic Information
-title: Kemou Li
-position: Ph.D. Student
-affiliation: University of Macau
-affiliation_link: https://www.um.edu.mo/
-location: Macao SAR, China
-email: kemou.li@connect.umac.mo
-bio: Researching machine unlearning for LLMs, trustworthy foundation models, machine learning, and AI security.
-sidebar_note: I am especially interested in the theoretical foundations of LLM unlearning and trustworthy foundation models.
+title: Fengpeng Li
+position: PostDoc Research Fellow
+affiliation: King Abdullah University of Science and Technology (KAUST)
+affiliation_link: https://www.kaust.edu.sa/
+location: Thuwal, Jedda City, Makkah Province, King Saudia Arabia
+email: fengpeng.li@kaust.edu.sa
+bio: trustworthy foundation models and agent, machine learning, GeoAI and AI security.
+sidebar_note: I am especially interested in the theoretical foundations of trustworthy machine learning and AI, LLM, VLM and agent Robust Learning, trustworthy foundation models, and VLM LLM and agent for GeoAI.
 research_areas:
-  - LLM Unlearning
-  - Trustworthy AI
-  - Machine Learning
-last_updated: 2026-04
+  - trustworthy machine learning(LLM, VLM, Agent, and Diffusion Models)
+  - Trustworthy AI (AIGC and DeepFake Detection)
+  - GeoAI (Intelligent Method for Geosciences)
+last_updated: 2026-05
 
 # Search Engine Optimization (SEO)
-keywords: Kemou Li, machine unlearning, trustworthy AI, AI security, LLM unlearning, University of Macau
-description: Kemou Li's academic homepage, featuring research interests, publications, awards, professional services, and teaching.
+keywords: Fengpeng Li, trustworthy machine learning and AI, GeoAI, KAUST
+description: Fengpeng Li's academic homepage, featuring research interests, publications, awards, professional services, and teaching.
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Tdnc10kAAAAJ
+google_scholar: https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=zh-CN
 cv_link: ./assets/files/CV_EN_Kemou_Li.pdf
 github_link: https://github.com/kemoulee
 linkedin: https://www.linkedin.com/in/kemou-li-211950268/
